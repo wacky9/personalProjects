@@ -1,0 +1,1 @@
+This is a MATLAB project I created for my Fundamentals of Engineering class. It features a semi-intelligent computer Connect 4 player that is designed to beat humans some but not all of the time. The computer player was made using minmax trees and alpha-beta pruning. 
