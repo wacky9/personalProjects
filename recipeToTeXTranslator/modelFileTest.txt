@@ -1,0 +1,19 @@
+%Use LuaLaTeX
+%Model text file
+\documentclass{article}
+\usepackage{recipeFormat}
+\begin{document}
+
+\mainmatter
+
+\recipe[HEADNOTE]{NAME}
+\serves{SERVING}
+\preptime{PREP}
+\cooktime{COOK}
+\begin{ingreds}% amount<space>ingredient; initial <.>=comment;*=column break
+    INGREDIENTS
+\end{ingreds}
+\begin{method}[COOKNOTE]
+	DIRECTIONS
+\end {method}
+\end{document}

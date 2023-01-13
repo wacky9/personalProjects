@@ -1,0 +1,33 @@
+NAME
+test recipe
+
+HEADNOTE
+headnote here
+
+INGREDIENTS (store in num_units then ingredient name)
+1234 asdfjasdf
+54 dsfasdfa
+90 asdjief
+3 asdfasdf
+1 asdfasdf
+
+COOKNOTE
+cooknotehere
+
+DIRECTIONS (number then text with a line between each step. Don't start a new line with a number)
+1
+akljsdflkasdf
+fdklajse
+askdf
+
+2
+asdjflaksdf
+
+SERVING
+4
+
+PREP (a number then a time value)
+5 hours
+
+COOK (a number then a time value)
+1 hour
