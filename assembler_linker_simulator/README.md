@@ -1,1 +1,3 @@
+This folder contains three interlinking Java applications created for the CSE 3903 Project class at Ohio State University. We were given a custom assembly language and instructed and specs for a machine to execute this language. Then we built an assembler to generate object code, a linker to put together multiple assembly files into a single program, and a simulator to simulate the execution of the object code. This entire project was completed in a single semester. I was one of 3 people working on this project. I contributed to both the design and coding of the project
 
+Each individual application is stored in a separate folder
