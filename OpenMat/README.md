@@ -3,7 +3,7 @@ OpenMat is a multithreaded numerical linear algebra calculator written entirely 
 The language is quite simple.
 Observe an example script:
 
-    MAT A = \[2,2,3;1,3,1]
+    MAT A = [2,2,3;1,3,1]
     NUM factor = 3.0
     MAT B = SCAL_MUL(factor,A)
     OUT = A
